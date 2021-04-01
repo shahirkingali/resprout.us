@@ -4,4 +4,4 @@ As a student-led company, we are committed to democratizing access and diversify
 
 Our demo video was inspired by Joseph who is a Vietnamese small business owner based in Seattle, Washington: https://vimeo.com/531523019
 
-#www.resprout.us
+# www.resprout.us
